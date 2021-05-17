@@ -1,6 +1,7 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 
 const versions = require("./versions.json");
+const latestVersion = versions[0];
 
 module.exports = {
   title: 'Monaco',
