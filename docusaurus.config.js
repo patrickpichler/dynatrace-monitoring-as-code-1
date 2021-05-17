@@ -6,12 +6,12 @@ const latestVersion = versions[0];
 module.exports = {
   title: 'Monaco',
   tagline: 'Dinosaurs are cool',
-  url: 'https://CruzanCaramele.github.io',
+  url: 'https://cruzancaramele.github.io',
   baseUrl: '/dynatrace-monitoring-as-code/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'CruzanCaramele',
+  organizationName: 'cruzancaramele',
   projectName: 'dynatrace-monitoring-as-code', // Usually your repo name.
   themeConfig: {
     navbar: {
