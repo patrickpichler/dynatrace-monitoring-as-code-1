@@ -18,7 +18,7 @@ module.exports = {
       title: 'Monaco',
       logo: {
         alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        src: 'img/Dynatrace_Logo_RGB_CNH_800x142px.svg',
       },
       items: [
         {
