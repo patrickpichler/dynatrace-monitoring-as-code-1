@@ -10,9 +10,11 @@ import TabItem from "@theme/TabItem";
 
 To use monaco you will need to install it. Monaco is distributed as a binary package.
 
-To install Monaco, find the appropriate package for your system and download it as a zip archive. After downloading Monaco, unzip the package. Monaco runs as a single binary named monaco. Ensure the binary is available on your PATH. This process will differ depending on your operating system.
+To install Monaco, find the appropriate executable for your system and download it.
 
-Binaries are available in the [release page](https://github.com/dynatrace-oss/dynatrace-monitoring-as-code/releases).
+Ensure that the monaco binary is available on your PATH. This process will differ depending on your operating system. This process will differ depending on your operating system.
+
+Executables are available in the [release page](https://github.com/dynatrace-oss/dynatrace-monitoring-as-code/releases).
 
 <Tabs
   defaultValue="operating system"

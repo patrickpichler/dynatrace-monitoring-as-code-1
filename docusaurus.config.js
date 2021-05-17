@@ -69,4 +69,11 @@ module.exports = {
       },
     ],
   ],
+  plugins: [
+    [require.resolve('@cmfcmf/docusaurus-search-local'), {
+      indexDocs: true,
+      language: "en",
+      docsRouteBasePath: '/',
+    }]
+  ],
 };
