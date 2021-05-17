@@ -27,3 +27,5 @@ This command is basically doing what the old tool did. It is used to deploy a sp
 ### Download
 
 This feature allows you to download the configuration from a Dynatrace tenant as Monaco files. You can use this feature to avoid starting from scratch when using Monaco.
+
+(it is also possible to revert back to the old CLI from the new CLI)
