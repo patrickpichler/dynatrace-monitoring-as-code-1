@@ -18,4 +18,4 @@ $ MONACO_REQUEST_LOG=request.log MONACO_RESPONSE_LOG=response.log monaco -e envi
 
 ```
 
-As of right now, the content of multipart post requests is not logged. This is a known limitation.
+
